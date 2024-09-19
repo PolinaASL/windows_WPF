@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Filimonova_WPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C5A540-AE1F-4CF0-876C-2C96D8F80D28}|Filimonova_WPF\\Filimonova_WPF.csproj|c:\\users\\user\\desktop\\filimonova_wpf\\filimonova_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F4C5A540-AE1F-4CF0-876C-2C96D8F80D28}|Filimonova_WPF\\Filimonova_WPF.csproj|solutionrelative:filimonova_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C5A540-AE1F-4CF0-876C-2C96D8F80D28}|Filimonova_WPF\\Filimonova_WPF.csproj|c:\\users\\user\\desktop\\filimonova_wpf\\filimonova_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4C5A540-AE1F-4CF0-876C-2C96D8F80D28}|Filimonova_WPF\\Filimonova_WPF.csproj|solutionrelative:filimonova_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Filimonova_WPF\\Filimonova_WPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Filimonova_WPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Filimonova_WPF\\Filimonova_WPF\\MainWindow.xaml",
+              "RelativeToolTip": "Filimonova_WPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-17T13:36:19.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Filimonova_WPF\\Filimonova_WPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Filimonova_WPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Filimonova_WPF\\Filimonova_WPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Filimonova_WPF\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T13:36:14.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
